@@ -365,6 +365,15 @@ h2 {
   line-height: 1.25em;
   letter-spacing: -0.05em; }
 
+.header{
+  background-color: blueviolet;
+  opacity: 80%;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-border-radius: 30px 40px
+}
+
 @media screen and (max-width: 736px) {
   h2 {
     font-size: 1.5em; } }
@@ -1464,7 +1473,7 @@ body {
 }
 
 /* o-que-faco */
-#o-que-faco {
+#objetivo {
   background: url("images/overlay.png"), url("../../images/make-success.jpg");
   background-size: 256px 256px, cover;
   background-attachment: fixed, fixed;
