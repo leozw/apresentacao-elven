@@ -1451,7 +1451,7 @@ body {
 
 /* Intro */
 #intro {
-  background: url("images/overlay.png"), url("../../images/florest.jpeg");
+  background: url("images/overlay.png"), url("../../images/hello.jpg");
   background-size: 256px 256px, cover;
   background-attachment: fixed, fixed;
   background-position: top left, bottom center;
@@ -1465,14 +1465,14 @@ body {
 
 /* o-que-faco */
 #o-que-faco {
-  background: url("images/overlay.png"), url("../../images/snow.jpeg");
+  background: url("images/overlay.png"), url("../../images/make-success.jpg");
   background-size: 256px 256px, cover;
   background-attachment: fixed, fixed;
   background-position: top left, center center; }
 
 /* Quem Sou */
 #quem-sou {
-  background: url("images/overlay.png"), url("../../images/castle.jpeg");
+  background: url("images/overlay.png"), url("../../images/be-awesome.jpg");
   background-size: 256px 256px, cover;
   background-attachment: fixed, fixed;
   background-position: top left, center center; }
